@@ -300,6 +300,7 @@
 				879EDD711DC494C00093B578 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
